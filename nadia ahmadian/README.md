@@ -4,6 +4,7 @@
 <!-- START: NADIA ICON -->
 
 <div align="center">
+ <iframe src="https://giphy.com/embed/krkrHAEodHgzP72rTI" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disneyplus-krkrHAEodHgzP72rTI">via GIPHY</a></p>
 <img src="@/../assets/img/personal-icons/nellyicon.png" width="80px" alt="nadia's Icon"/>
 </div>
 <!-- END: NELLYXINWEI ICON -->
