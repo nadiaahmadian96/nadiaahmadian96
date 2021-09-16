@@ -1,10 +1,10 @@
 <!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
-<img src="https://media.giphy.com/media/krkrHAEodHgzP72rTI/giphy.gif?cid=ecf05e47y94mbjg3z0tk4l29khhjhzsyjh0771wtm5jm1ip5&rid=giphy.gif&ct=g" width="100%" alt="Nadia's Hero Gif Image"/>
+<img src="https://media.giphy.com/media/VZCFpF6sUyoG6l5SrY/giphy.gif?cid=ecf05e47isw25j8iialmw40s8dteu4vxjhx81njn4pst0xqu&rid=giphy.gif&ct=g" width="100%"  alt="Nadia's Hero Gif Image"/>
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 <!-- START: NADIA ICON -->
 
 <div align="center">
-<img src="https://giphy.com/gifs/disneyplus-krkrHAEodHgzP72rTI" width="80px" alt="nadia's Icon"/>
+<img src="@/../assets/img/nadlogo.png" width="80px" alt="nadia's Icon"/>
 </div>
 <!-- END: NELLYXINWEI ICON -->
 
