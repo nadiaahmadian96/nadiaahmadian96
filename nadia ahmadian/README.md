@@ -1,5 +1,5 @@
 <!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
-<img src="https://imgflip.com/gif/5n7u8v"  alt="Nadia's Hero Gif Image"/>
+<img src="https://imgflip.com/gif/5n7u8v" width="100%" alt="Nadia's Hero Gif Image"/>
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 <!-- START: NADIA ICON -->
 
