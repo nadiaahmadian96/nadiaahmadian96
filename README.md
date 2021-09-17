@@ -65,10 +65,10 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 > Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
 > -- Steve Jobs
 
-
+# **languages and tools:**  
 <div align="center">
 <!-- START: PROGRAMMING LANGUAGES -->
- # **languages and tools:**  
+
 
 <code><img height="40" src="@/../assests/img/tools/swift.png"></code>
 <code><img height="40" src="@/../assests/img/tools/xcode.png"></code>
