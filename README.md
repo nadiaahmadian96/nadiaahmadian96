@@ -140,6 +140,9 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 
 <!-- END: GITHUB STATUS -->
   
+  </br>
+  </br>
+  
   Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
