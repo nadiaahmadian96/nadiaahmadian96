@@ -26,9 +26,7 @@
 <!-- START: MUSIC STATUS -->
 <div align="center">
  
-[[https://spotify-av8kyv5hm-nadiaahmadian96.vercel.app
-/api/view.svg?uid=mxzttlrm16j2vjvt2m6vmkfv6&redirect=true][https://spotify-av8kyv5hm-nadiaahmadian96.vercel.app
-.vercel.app/api/view.svg?uid=mxzttlrm16j2vjvt2m6vmkfv6&cover_image=true&theme=novatorem)]]
+[[https://spotify-six-beige.vercel.app/api/view.svg?uid=mxzttlrm16j2vjvt2m6vmkfv6&redirect=true][https://spotify-six-beige.vercel.app/api/view.svg?uid=mxzttlrm16j2vjvt2m6vmkfv6&cover_image=true&theme=novatorem)]]
  
 </div>
 <!-- END: MUSIC STATUS -->
