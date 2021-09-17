@@ -103,11 +103,11 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 
 
 # 📱 Latest Tweets
-<!-- TWITTER:START -->
 <div align="center">
+<!-- TWITTER:START -->
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nadia_ahmadian_)](https://github.com/gazf/github-readme-twitter)
-</div>
 <!-- TWITTER:END -->
+</div>
 </br>
 </br>
 <div align="center">
