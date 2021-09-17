@@ -38,7 +38,7 @@
 <!-- END:VISITOR COUNTER -->
 
 <!-- START: SOCIAL LINKS  -->
-[![Github Badge](https://img.shields.io/badge/@nadiaahdn96-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadiaahmadian96) [![Linkedin Badge](https://img.shields.io/badge/@nadiaahmadian-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nadiaahmadian/)](https://www.linkedin.com/in/nadia-ahmadian-7a82bb176/)  [![Facebook Badge](https://img.shields.io/badge/@nadia.ahmadian-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/nelson.albajr)](https://www.facebook.com/nadia.ahmadian.92)  [![Instagram Badge](https://img.shields.io/badge/@nadia.ahmadian_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nadia.ahmadian_/)](https://www.instagram.com/nadia.ahmadian_/)
+
  [![Personal Website](https://img.shields.io/badge/🪐Personal%20Website-Coming%20Soon%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)](https://nadiaahmadian96.github.io/cv/)
 </div>
 <!-- END: SOCIAL LINKS  -->
