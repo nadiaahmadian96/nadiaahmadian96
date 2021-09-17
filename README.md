@@ -65,10 +65,28 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 > Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
 > -- Steve Jobs
 
-<br/>
-<br/>
 
 
+<!-- START: PROGRAMMING LANGUAGES -->
+ # **languages and tools:**  
+
+<code><img height="40" src="@/../assests/img/tools/swift.png"></code>
+<code><img height="40" src="@/../assests/img/tools/xcode.png"></code>
+<code><img height="40" src="@/../assests/img/tools/objectivec.png"></code>
+<code><img height="40" src="@/../assests/img/tools/ARKit.png"></code>
+<code><img height="40" src="@/../assests/img/tools/coreml.png"></code>
+<code><img height="40" src="@/../assests/img/tools/firebase.png"></code>
+<code><img height="40" src="@/../assests/img/tools/git.png"></code>
+<code><img height="40" src="@/../assests/img/tools/mysql.png"></code>
+<code><img height="40" src="@/../assests/img/tools/python.png"></code>
+<code><img height="40" src="@/../assests/img/tools/react.png"></code>
+<code><img height="40" src="@/../assests/img/tools/javascript.png"></code>
+<code><img height="40" src="@/../assests/img/tools/realm.png"></code>
+#
+<!-- END: PROGRAMMING LANGUAGES -->
+
+<br/>
+<br/>
 <!-- START: MUSIC STATUS -->
 <div align="center">
  
@@ -94,23 +112,7 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 
 <div align="center">
  
-<!-- START: PROGRAMMING LANGUAGES -->
- # **languages and tools:**  
 
-<code><img height="40" src="@/../assests/img/tools/swift.png"></code>
-<code><img height="40" src="@/../assests/img/tools/xcode.png"></code>
-<code><img height="40" src="@/../assests/img/tools/objectivec.png"></code>
-<code><img height="40" src="@/../assests/img/tools/ARKit.png"></code>
-<code><img height="40" src="@/../assests/img/tools/coreml.png"></code>
-<code><img height="40" src="@/../assests/img/tools/firebase.png"></code>
-<code><img height="40" src="@/../assests/img/tools/git.png"></code>
-<code><img height="40" src="@/../assests/img/tools/mysql.png"></code>
-<code><img height="40" src="@/../assests/img/tools/python.png"></code>
-<code><img height="40" src="@/../assests/img/tools/react.png"></code>
-<code><img height="40" src="@/../assests/img/tools/javascript.png"></code>
-<code><img height="40" src="@/../assests/img/tools/realm.png"></code>
-#
-<!-- END: PROGRAMMING LANGUAGES -->
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadiaahmadian96)](https://git.io/streak-stats)
 
 <!-- START: GITHUB STATUS -->
