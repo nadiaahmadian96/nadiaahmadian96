@@ -65,6 +65,7 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 </div>
 <!-- END: MUSIC STATUS -->
 💻 Blog posts
+</br>
 <!-- BLOG-POST-LIST:START -->
 - [Core ML](https://medium.com/nerd-for-tech/core-ml-e840938a55d9?source=rss-ae64efaa0bb3------2)
 - [Swift Tuples](https://medium.com/nerd-for-tech/swift-tuples-e41bcf579cfd?source=rss-ae64efaa0bb3------2)
