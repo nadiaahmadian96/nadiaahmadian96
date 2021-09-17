@@ -95,7 +95,7 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 <div align="center">
  
 <!-- START: PROGRAMMING LANGUAGES -->
- **languages and tools:**  
+ # **languages and tools:**  
 
 <code><img height="40" src="@/../assests/img/tools/swift.png"></code>
 <code><img height="40" src="@/../assests/img/tools/xcode.png"></code>
@@ -109,7 +109,7 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 <code><img height="40" src="@/../assests/img/tools/react.png"></code>
 <code><img height="40" src="@/../assests/img/tools/javascript.png"></code>
 <code><img height="40" src="@/../assests/img/tools/realm.png"></code>
-
+#
 <!-- END: PROGRAMMING LANGUAGES -->
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadiaahmadian96)](https://git.io/streak-stats)
 
