@@ -100,9 +100,28 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadiaahmadian96)](https://git.io/streak-stats)
 
 <!-- START: GITHUB STATUS -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiaahmadian96&show_icons=true&theme=chartreuse-dark)
+  <hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiaahmadian96&show_icons=true&theme=chartreuse-dark)
+     [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nadiaahmadian96)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiaahmadian96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>
+
   <br/>
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nadiaahmadian96)](https://github.com/anuraghazra/github-readme-stats)
+   
 <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiaahmadian96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
