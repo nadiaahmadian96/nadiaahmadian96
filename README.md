@@ -140,7 +140,9 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 
 <!-- END: GITHUB STATUS -->
   
-https://github-profile-trophy.vercel.app/?username=nadiaahmadian96&theme=darkhub
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
   
