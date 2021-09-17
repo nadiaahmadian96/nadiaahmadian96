@@ -26,7 +26,7 @@
 <!-- START: MUSIC STATUS -->
 <div align="center">
  
-[![Spotify](https://spotify.vercel.app/api/spotify)](https://open.spotify.com/user/spotify)
+[![Spotify](https://mxzttlrm16j2vjvt2m6vmkfv6.vercel.app/api/spotify)](https://open.spotify.com/user/mxzttlrm16j2vjvt2m6vmkfv6)
  
 </div>
 <!-- END: MUSIC STATUS -->
