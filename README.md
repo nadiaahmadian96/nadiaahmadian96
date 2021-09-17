@@ -57,12 +57,19 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 <!-- START: PROGRAMMING LANGUAGES -->
 **languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
+<code><img height="20" src="../assests/img/tools/swift.jpg"></code>
+<code><img height="20" src="../assests/img/tools/xcode.jpg"></code>
+<code><img height="20" src="../assests/img/tools/objectivec.png"></code>
+<code><img height="20" src="../assests/img/tools/ARKit.png"></code>
+<code><img height="20" src="../assests/img/tools/coreml.png"></code>
+<code><img height="20" src="../assests/img/tools/firebase.png"></code>
+<code><img height="20" src="../assests/img/tools/git.png"></code>
+<code><img height="20" src="../assests/img/tools/mysql.png"></code>
+<code><img height="20" src="../assests/img/tools/python.png"></code>
+<code><img height="20" src="../assests/img/tools/react.png"></code>
+<code><img height="20" src="../assests/img/tools/javascript.png"></code>
+<code><img height="20" src="../assests/img/tools/realm.png"></code>
+
 <!-- END: PROGRAMMING LANGUAGES -->
 <!-- START: GITHUB STATUS -->
 <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nellyXinwei&layout=compact&langs_count=10&hide_title=true&hide_border=true&text_color=fff&bg_color=333399,333399,333399,833ab4,c13584,c13584" alt="nellyXinwei's Wakatime"/>
