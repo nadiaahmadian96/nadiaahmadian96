@@ -30,14 +30,9 @@
 
 <table width="100%"> 
 
-  <td width="50%">
+  <td width="100%">
       
 &nbsp; <br> [![Spotify](https://novatorem2.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
-
-
-  <td width="50%">
-
-
 
   </table>
 
