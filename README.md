@@ -95,16 +95,8 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 
 <!-- END: PROGRAMMING LANGUAGES -->
 <!-- START: GITHUB STATUS -->
-<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nellyXinwei&layout=compact&langs_count=10&hide_title=true&hide_border=true&text_color=fff&bg_color=333399,333399,333399,833ab4,c13584,c13584" alt="nellyXinwei's Wakatime"/>
+<![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiaahmadian&show_icons=true&theme=radical)
 
-<br>
-<br>
-
-  <img align="center" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nellyXinwei&layout=compact&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&include_all_commits=true&langs_count=10&hide=python,html,css,powershell,shell&bg_color=833ab4,833ab4,c13584,f77737,f77737" alt="nellyXinwei's Top Languages"/>
-
-<br>
-<br>
-  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=nellyXinwei&show_icons=true&bg_color=333399,833ab4,c13584,f77737&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" alt="nellyXinwei's Github Stats"/>
 
 <!-- END: GITHUB STATUS -->
 </div>
