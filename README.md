@@ -23,24 +23,7 @@
 </div>
 <!-- END: SOCIAL LINKS  -->
 
-<!-- START: MUSIC STATUS -->
-<div align="center">
- 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=mxzttlrm16j2vjvt2m6vmkfv6)
 
- 
-</div>
-<!-- END: MUSIC STATUS -->
-
-📱 Latest Tweets
-
-<!-- TWITTER:START -->
-- [@nadia_ahmadian_: هم خونه ای سلام 🙆🏼‍♀️🥺🤩](https://twitter.com/nadia_ahmadian_/status/1438870509379260422)
-- [@nadia_ahmadian_: Be a fuckin programmer not a coder!](https://twitter.com/nadia_ahmadian_/status/1438553497545449472)
-- [@nadia_ahmadian_: اگه تو این چند سال یک چیزی یاد گرفته باشم اونم اینه که دنبال closure نباشم. واقعا نمیشه برای همه ی اتفاقایی که تو مغز بقیه میفته دلیل منطقی آورد.](https://twitter.com/nadia_ahmadian_/status/1438546237284929538)
-- [@nadia_ahmadian_: بعضی وقتا آدم فرق بین دوست داشتن و عادت رو نمیتونه متوجه بشه](https://twitter.com/nadia_ahmadian_/status/1438543624439050252)
-- [@nadia_ahmadian_: یاد بگیرین تباها](https://twitter.com/nadia_ahmadian_/status/1438543323908743173)
-<!-- TWITTER:END -->
 
 <!-- START: ABOUT ME  -->
 <div align="center">
@@ -50,6 +33,20 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 </p>
 </div>
 <!-- END: ABOUT ME  -->
+<!-- START: MUSIC STATUS -->
+<div align="center">
+ 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=mxzttlrm16j2vjvt2m6vmkfv6)
+
+ 
+</div>
+<!-- END: MUSIC STATUS -->
+
+
+📱 Latest Tweets
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
 <div align="center">
 <!-- START: PROGRAMMING LANGUAGES -->
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>  
