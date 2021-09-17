@@ -110,9 +110,10 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 - [@nadia_ahmadian_: بعضی وقتا آدم فرق بین دوست داشتن و عادت رو نمیتونه متوجه بشه](https://twitter.com/nadia_ahmadian_/status/1438543624439050252)
 - [@nadia_ahmadian_: یاد بگیرین تباها](https://twitter.com/nadia_ahmadian_/status/1438543323908743173)
 <!-- TWITTER:END -->
-
+</br>
+</br>
 <div align="center">
-# 
+
  
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadiaahmadian96)](https://git.io/streak-stats)
