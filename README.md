@@ -83,7 +83,7 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 <!-- BLOG-POST-LIST:START -->🔘Core ML</br>https://medium.com/nerd-for-tech/core-ml-e840938a55d9?source=rss-ae64efaa0bb3------2</br>🔘Swift Tuples</br>https://medium.com/nerd-for-tech/swift-tuples-e41bcf579cfd?source=rss-ae64efaa0bb3------2</br>🔘Swift Structs vs. Classes</br>https://medium.com/nerd-for-tech/swift-structs-vs-classes-f2014da7a20f?source=rss-ae64efaa0bb3------2</br>🔘How to Bring Moon Into Your Room Using AR Kit</br>https://towardsdev.com/how-to-bring-moon-into-your-room-using-ar-kit-81e4d7dfcfae?source=rss-ae64efaa0bb3------2</br>🔘Geometric Transformation in Digital Image processing</br>https://towardsdev.com/geometric-transformation-in-digital-image-processing-4236a6553dc2?source=rss-ae64efaa0bb3------2</br><!-- BLOG-POST-LIST:END -->
 
 </br>
-📱 Latest Tweets
+# 📱 Latest Tweets
 
 <!-- TWITTER:START -->
 - [@nadia_ahmadian_: هم خونه ای سلام 🙆🏼‍♀️🥺🤩](https://twitter.com/nadia_ahmadian_/status/1438870509379260422)
@@ -96,7 +96,7 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 <div align="center">
  
 <!-- START: PROGRAMMING LANGUAGES -->
-**languages and tools:**  
+# **languages and tools:**  
 
 <code><img height="20" src="@/../assests/img/tools/swift.png"></code>
 <code><img height="20" src="@/../assests/img/tools/xcode.png"></code>
