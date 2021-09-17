@@ -32,7 +32,7 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://nadiaahmadian96.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+&nbsp; <br> [![Spotify](https://novatorem2.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
   </td>
   <td width="50%">
