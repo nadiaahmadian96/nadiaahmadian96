@@ -25,7 +25,7 @@
 
 <!-- START: MUSIC STATUS -->
 <div align="center">
-[![Spotify](https://novatorem2-nadiaahmadian96.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+&nbsp;[![Spotify](https://novatorem2-nadiaahmadian96.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 [[https://novatorem2-nadiaahmadian96.vercel.app/api/view.svg?uid=mxzttlrm16j2vjvt2m6vmkfv6&redirect=true][https://novatorem2-nadiaahmadian96.vercel.app/api/view.svg?uid=mxzttlrm16j2vjvt2m6vmkfv6&cover_image=true&theme=novatorem)]]
 </div>
