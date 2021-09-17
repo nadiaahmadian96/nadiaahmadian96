@@ -95,7 +95,7 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 
 <!-- END: PROGRAMMING LANGUAGES -->
 <!-- START: GITHUB STATUS -->
-<![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiaahmadian96&show_icons=true&theme=radical)
+<![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiaahmadian96&show_icons=true&theme=chartreuse-dark)
 
 
 <!-- END: GITHUB STATUS -->
