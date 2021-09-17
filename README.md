@@ -112,7 +112,7 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 <!-- TWITTER:END -->
 
 <div align="center">
- # 
+# 
  
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadiaahmadian96)](https://git.io/streak-stats)
