@@ -140,8 +140,11 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 
 <!-- END: GITHUB STATUS -->
   
+[![trophy](https://github-profile-trophy.vercel.app/?username=nadiaahmadian96)](https://github.com/ryo-ma/github-profile-trophy)
+
+  
   </br>
-  </br>
+  
   
   Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
