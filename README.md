@@ -66,6 +66,11 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 <!-- END: MUSIC STATUS -->
 💻 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Core ML](https://medium.com/nerd-for-tech/core-ml-e840938a55d9?source=rss-ae64efaa0bb3------2)
+- [Swift Tuples](https://medium.com/nerd-for-tech/swift-tuples-e41bcf579cfd?source=rss-ae64efaa0bb3------2)
+- [Swift Structs vs. Classes](https://medium.com/nerd-for-tech/swift-structs-vs-classes-f2014da7a20f?source=rss-ae64efaa0bb3------2)
+- [How to Bring Moon Into Your Room Using AR Kit](https://towardsdev.com/how-to-bring-moon-into-your-room-using-ar-kit-81e4d7dfcfae?source=rss-ae64efaa0bb3------2)
+- [Geometric Transformation in Digital Image processing](https://towardsdev.com/geometric-transformation-in-digital-image-processing-4236a6553dc2?source=rss-ae64efaa0bb3------2)
 <!-- BLOG-POST-LIST:END -->
 
 
