@@ -12,7 +12,7 @@
   <img align="left" alt="Nadia's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=nadiaahmadian.nadiaahmadian)
 
 <br />
 <!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
