@@ -32,8 +32,7 @@
 </div>
 <!-- END: MUSIC STATUS -->
 
-
-<p>### 📱 Latest Tweets</p>
+📱 Latest Tweets
 
 <!-- TWITTER:START -->
 - [@nadia_ahmadian_: هم خونه ای سلام 🙆🏼‍♀️🥺🤩](https://twitter.com/nadia_ahmadian_/status/1438870509379260422)
