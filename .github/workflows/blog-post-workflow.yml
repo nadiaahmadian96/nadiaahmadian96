@@ -15,5 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@nadiaahmadian"
-          template: "$title</br>$url</br>"
+          template: "<p>🔘</p>$title</br>$url</br>"
       
