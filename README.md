@@ -97,6 +97,8 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 <code><img height="20" src="@/../assests/img/tools/realm.png"></code>
 
 <!-- END: PROGRAMMING LANGUAGES -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadiaahmadian96)](https://git.io/streak-stats)
+
 <!-- START: GITHUB STATUS -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiaahmadian96&show_icons=true&theme=chartreuse-dark)
   <br/>
@@ -108,8 +110,4 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 </div>
 
 <br/>
-<!-- START: 3RD ROW ////////// ////////// ////////// -->
-<div align="center">
-  <img align="center" width="500px" src="@/../assets/img/page-insights.svg" alt="Nadia's Page Insights"/>
-</div>
-<!-- END: 3RD ROW ////////// ////////// ////////// -->
+
