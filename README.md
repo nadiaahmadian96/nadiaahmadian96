@@ -104,11 +104,8 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 
 # 📱 Latest Tweets
 <!-- TWITTER:START -->
-- [@nadia_ahmadian_: هم خونه ای سلام 🙆🏼‍♀️🥺🤩](https://twitter.com/nadia_ahmadian_/status/1438870509379260422)
-- [@nadia_ahmadian_: Be a fuckin programmer not a coder!](https://twitter.com/nadia_ahmadian_/status/1438553497545449472)
-- [@nadia_ahmadian_: اگه تو این چند سال یک چیزی یاد گرفته باشم اونم اینه که دنبال closure نباشم. واقعا نمیشه برای همه ی اتفاقایی که تو مغز بقیه میفته دلیل منطقی آورد.](https://twitter.com/nadia_ahmadian_/status/1438546237284929538)
-- [@nadia_ahmadian_: بعضی وقتا آدم فرق بین دوست داشتن و عادت رو نمیتونه متوجه بشه](https://twitter.com/nadia_ahmadian_/status/1438543624439050252)
-- [@nadia_ahmadian_: یاد بگیرین تباها](https://twitter.com/nadia_ahmadian_/status/1438543323908743173)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nadia_ahmadian_)](https://github.com/gazf/github-readme-twitter)
+
 <!-- TWITTER:END -->
 </br>
 </br>
