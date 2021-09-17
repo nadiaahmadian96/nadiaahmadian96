@@ -119,6 +119,13 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nadiaahmadian96)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiaahmadian96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 
 <!-- END: GITHUB STATUS -->
   
