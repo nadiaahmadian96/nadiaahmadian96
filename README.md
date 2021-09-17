@@ -12,10 +12,10 @@
   <img align="left" alt="Nadia's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://www.facebook.com/nadia.ahmadian.92">
-  <img align="left" alt="Nadia's FaceBook" width="22px" src="@/../assests/img/social/fb" />
+  <img align="left" alt="Nadia's FaceBook" width="22px" src="@/../assests/img/social/fb.png" />
 </a>
 <a href="https://www.instagram.com/nadia.ahmadian_/">
-  <img align="left" alt="Nadia's FaceBook" width="22px" src="@/../assests/img/social/insta" />
+  <img align="left" alt="Nadia's FaceBook" width="22px" src="@/../assests/img/social/insta.png" />
 </a>
 
 
