@@ -66,7 +66,7 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 > -- Steve Jobs
 
 
-
+<div align="center">
 <!-- START: PROGRAMMING LANGUAGES -->
  # **languages and tools:**  
 
@@ -84,6 +84,7 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 <code><img height="40" src="@/../assests/img/tools/realm.png"></code>
 #
 <!-- END: PROGRAMMING LANGUAGES -->
+</div>
 
 <br/>
 <br/>
