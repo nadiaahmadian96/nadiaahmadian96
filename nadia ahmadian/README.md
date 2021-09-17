@@ -26,10 +26,16 @@
 <!-- START: MUSIC STATUS -->
 <div align="center">
 
-  <a href="https://novatorem2-rho.vercel.app
-.vercel.app/api/now-playing?open">
-  <img src="https://novatorem2-rho.vercel.app
-.vercel.app/api/now-playing" alt="Music Status">
+[![Spotify](https://novatorem2-rho.vercel.app
+.vercel.app/api/view.svg?uid=mxzttlrm16j2vjvt2m6vmkfv6&redirect=true)](https://open.spotify.com/user/mxzttlrm16j2vjvt2m6vmkfv6)
+
+[[https://novatorem2-rho.vercel.app
+.vercel.app/api/view.svg?uid=mxzttlrm16j2vjvt2m6vmkfv6&redirect=true][https://novatorem2-rho.vercel.app
+.app/api/view.svg?uid=mxzttlrm16j2vjvt2m6vmkfv6&cover_image=true&theme=novatorem)]]
+
+
+  <a href="https://prj_AWjH2vGXttpTEQZR36tLuQfrpFjv.vercel.app/api/now-playing?open">
+  <img src="https://prj_AWjH2vGXttpTEQZR36tLuQfrpFjv.vercel.app/api/now-playing" alt="Music Status">
   </a>
 </div>
 <!-- END: MUSIC STATUS -->
