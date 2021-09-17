@@ -57,18 +57,18 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
 <!-- START: PROGRAMMING LANGUAGES -->
 **languages and tools:**  
 
-<code><img height="20" src="@../assests/img/tools/swift.png"></code>
-<code><img height="20" src="@../assests/img/tools/xcode.png"></code>
-<code><img height="20" src="@../assests/img/tools/objectivec.png"></code>
-<code><img height="20" src="@../assests/img/tools/ARKit.png"></code>
-<code><img height="20" src="@../assests/img/tools/coreml.png"></code>
-<code><img height="20" src="@../assests/img/tools/firebase.png"></code>
-<code><img height="20" src="@../assests/img/tools/git.png"></code>
-<code><img height="20" src="@../assests/img/tools/mysql.png"></code>
-<code><img height="20" src="@../assests/img/tools/python.png"></code>
-<code><img height="20" src="@../assests/img/tools/react.png"></code>
-<code><img height="20" src="@../assests/img/tools/javascript.png"></code>
-<code><img height="20" src="@../assests/img/tools/realm.png"></code>
+<code><img height="20" src="@/../assests/img/tools/swift.png"></code>
+<code><img height="20" src="@/../assests/img/tools/xcode.png"></code>
+<code><img height="20" src="@/../assests/img/tools/objectivec.png"></code>
+<code><img height="20" src="@/../assests/img/tools/ARKit.png"></code>
+<code><img height="20" src="@/../assests/img/tools/coreml.png"></code>
+<code><img height="20" src="@/../assests/img/tools/firebase.png"></code>
+<code><img height="20" src="@/../assests/img/tools/git.png"></code>
+<code><img height="20" src="@/../assests/img/tools/mysql.png"></code>
+<code><img height="20" src="@/../assests/img/tools/python.png"></code>
+<code><img height="20" src="@/../assests/img/tools/react.png"></code>
+<code><img height="20" src="@/../assests/img/tools/javascript.png"></code>
+<code><img height="20" src="@/../assests/img/tools/realm.png"></code>
 
 <!-- END: PROGRAMMING LANGUAGES -->
 <!-- START: GITHUB STATUS -->
