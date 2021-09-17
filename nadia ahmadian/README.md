@@ -31,6 +31,10 @@
  
 </div>
 <!-- END: MUSIC STATUS -->
+### 📱 Latest Tweets
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
 
 <!-- START: ABOUT ME  -->
 <div align="center">
