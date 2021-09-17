@@ -25,18 +25,7 @@
 
 <!-- START: MUSIC STATUS -->
 <div align="center">
-
-[![Spotify](https://novatorem2-rho.vercel.app
-.vercel.app/api/view.svg?uid=mxzttlrm16j2vjvt2m6vmkfv6&redirect=true)](https://open.spotify.com/user/mxzttlrm16j2vjvt2m6vmkfv6)
-
-[[https://novatorem2-rho.vercel.app
-.vercel.app/api/view.svg?uid=mxzttlrm16j2vjvt2m6vmkfv6&redirect=true][https://novatorem2-rho.vercel.app
-.app/api/view.svg?uid=mxzttlrm16j2vjvt2m6vmkfv6&cover_image=true&theme=novatorem)]]
-
-
-  <a href="https://prj_AWjH2vGXttpTEQZR36tLuQfrpFjv.vercel.app/api/now-playing?open">
-  <img src="https://prj_AWjH2vGXttpTEQZR36tLuQfrpFjv.vercel.app/api/now-playing" alt="Music Status">
-  </a>
+[![Spotify](https://nadiaahmadian96.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 </div>
 <!-- END: MUSIC STATUS -->
 
