@@ -31,8 +31,8 @@
 [[https://spotify-github-profile.vercel.app/api/view.svg?uid=mxzttlrm16j2vjvt2m6vmkfv6&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mxzttlrm16j2vjvt2m6vmkfv6&cover_image=true&theme=novatorem)]]
 
 
-  <a href="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing?open">
-  <img src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing" alt="Music Status">
+  <a href="https://prj_AWjH2vGXttpTEQZR36tLuQfrpFjv.vercel.app/api/now-playing?open">
+  <img src="https://prj_AWjH2vGXttpTEQZR36tLuQfrpFjv.vercel.app/api/now-playing" alt="Music Status">
   </a>
 </div>
 <!-- END: MUSIC STATUS -->
