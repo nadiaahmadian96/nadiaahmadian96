@@ -25,12 +25,7 @@
 
 <!-- START: MUSIC STATUS -->
 <div align="center">
-[![Spotify](https://nadiaahmadian96.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
-
-
-      
-[![Spotify](https://novatorem2.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
-
+[![Spotify](https://novatorem2-8t843zp3s-nadiaahmadian96.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 </div>
 <!-- END: MUSIC STATUS -->
