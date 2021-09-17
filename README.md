@@ -4,7 +4,7 @@
 <!-- START: NADIA ICON -->
 
 <div align="center">
-<img src="@/../assets/img/nadlogo.png" width="80px" alt="nadia's Icon"/>
+<img src="@/../assests/img/nadlogo.png" width="80px" alt="nadia's Icon"/>
 </div>
 <!-- END: NELLYXINWEI ICON -->
 
