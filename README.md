@@ -33,7 +33,7 @@
 <!-- END: MUSIC STATUS -->
 
 
-<p>### 📱 Latest Tweets</p>
+### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
 <!-- TWITTER:END -->
