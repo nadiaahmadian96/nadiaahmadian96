@@ -15,7 +15,10 @@
   <img align="left" alt="Nadia's FaceBook" width="22px" src="@/../assests/img/social/fb.png" />
 </a>
 <a href="https://www.instagram.com/nadia.ahmadian_/">
-  <img align="left" alt="Nadia's FaceBook" width="22px" src="@/../assests/img/social/insta.png" />
+  <img align="left" alt="Nadia's Instagram" width="22px" src="@/../assests/img/social/insta.png" />
+</a>
+<a href="https://nadiaahmadian.medium.com">
+  <img align="left" alt="Nadia's medium" width="22px" src="@/../assests/img/social/medium.png" />
 </a>
 
 
