@@ -28,16 +28,10 @@
 [![Spotify](https://nadiaahmadian96.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
-<table width="100%"> 
-
-  <td width="100%">
       
-&nbsp; <br> [![Spotify](https://novatorem2.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem2.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
-  </table>
 
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
-[//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 </div>
 <!-- END: MUSIC STATUS -->
 
