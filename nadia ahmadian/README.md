@@ -26,7 +26,7 @@
 <!-- START: MUSIC STATUS -->
 <div align="center">
  
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=nadiaahmadian)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=mxzttlrm16j2vjvt2m6vmkfv6)
 
  
 </div>
