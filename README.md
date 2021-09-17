@@ -64,6 +64,9 @@ My name is Nadia Ahmadian You can call me Nad! I am currently an 25 y/o software
  
 </div>
 <!-- END: MUSIC STATUS -->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 📱 Latest Tweets
