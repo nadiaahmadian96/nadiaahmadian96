@@ -104,11 +104,11 @@ My name is Nadia Ahmadian You can call me Nad! I am currently a 25 y/o software 
 
 # 📱 Latest Tweets
 <!-- TWITTER:START -->
-- [@nadia_ahmadian_: هم خونه ای سلام 🙆🏼‍♀️🥺🤩](https://twitter.com/nadia_ahmadian_/status/1438870509379260422)
-- [@nadia_ahmadian_: Be a fuckin programmer not a coder!](https://twitter.com/nadia_ahmadian_/status/1438553497545449472)
-- [@nadia_ahmadian_: اگه تو این چند سال یک چیزی یاد گرفته باشم اونم اینه که دنبال closure نباشم. واقعا نمیشه برای همه ی اتفاقایی که تو مغز بقیه میفته دلیل منطقی آورد.](https://twitter.com/nadia_ahmadian_/status/1438546237284929538)
-- [@nadia_ahmadian_: بعضی وقتا آدم فرق بین دوست داشتن و عادت رو نمیتونه متوجه بشه](https://twitter.com/nadia_ahmadian_/status/1438543624439050252)
-- [@nadia_ahmadian_: یاد بگیرین تباها](https://twitter.com/nadia_ahmadian_/status/1438543323908743173)
+- [@nadia_ahmadian_: اینو چی؟](https://twitter.com/nadia_ahmadian_/status/1439266770716610570)
+- [@nadia_ahmadian_: گایز کسی اینو خونده؟](https://twitter.com/nadia_ahmadian_/status/1439266360111079426)
+- [@Awiryw: هر چی دور شدیم ریشه دادمهمینم شد باعث رشد](https://twitter.com/Awiryw/status/1439215326437257220)
+- [@nadia_ahmadian_: خیلی خوب خیلی زود میشه خیلی بد،اگه ندونی خیلی خوب خیلی زود میشه خیلی بد…](https://twitter.com/nadia_ahmadian_/status/1439172017828376577)
+- [@nadia_ahmadian_: سیخ میخ نه نمیخوان](https://twitter.com/nadia_ahmadian_/status/1439171248622288897)
 <!-- TWITTER:END -->
 #
 
