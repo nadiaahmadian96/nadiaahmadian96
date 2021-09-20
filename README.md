@@ -104,11 +104,11 @@ My name is Nadia Ahmadian You can call me Nad! I am currently a 25 y/o software 
 
 # 📱 Latest Tweets
 <!-- TWITTER:START -->
+- [@nadia_ahmadian_: شیرین تو جیب لباس زمستونیاش هنزفری پیدا میکنه من جوینت ☺️💨](https://twitter.com/nadia_ahmadian_/status/1439592399395766273)
 - [@nadia_ahmadian_: اینو چی؟](https://twitter.com/nadia_ahmadian_/status/1439266770716610570)
 - [@nadia_ahmadian_: گایز کسی اینو خونده؟](https://twitter.com/nadia_ahmadian_/status/1439266360111079426)
 - [@Awiryw: هر چی دور شدیم ریشه دادمهمینم شد باعث رشد](https://twitter.com/Awiryw/status/1439215326437257220)
 - [@nadia_ahmadian_: خیلی خوب خیلی زود میشه خیلی بد،اگه ندونی خیلی خوب خیلی زود میشه خیلی بد…](https://twitter.com/nadia_ahmadian_/status/1439172017828376577)
-- [@nadia_ahmadian_: سیخ میخ نه نمیخوان](https://twitter.com/nadia_ahmadian_/status/1439171248622288897)
 <!-- TWITTER:END -->
 #
 
