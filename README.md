@@ -124,7 +124,7 @@ My name is Nadia Ahmadian You can call me Nad! I am currently a 25 y/o software 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiaahmadian96&show_icons=true&theme=chartreuse-dark)
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nadiaahmadian96)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiaahmadian96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
