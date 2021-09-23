@@ -104,11 +104,11 @@ My name is Nadia Ahmadian You can call me Nad! I am currently a 25 y/o software 
 
 # 📱 Latest Tweets
 <!-- TWITTER:START -->
-- [@nadia_ahmadian_: 🚬](https://twitter.com/nadia_ahmadian_/status/1440310352139358212)
-- [@nadia_ahmadian_: So I wish that I held you, I doI guess I got complacentNow I'm alone just blaming myself](https://twitter.com/nadia_ahmadian_/status/1440290358525497348)
-- [@nadia_ahmadian_: چون اگه تیکه اول رو دومی اثر بذاره از زندگیت و انتظاراتت عقب میمونی و اگه دومی رو اولی تاثیر بذاره میشی آدم آهنی. کاش یک دکمه داشت میزدی زندگی وامیستاد، غصه تو که خوردی و احساساتتو هضم کردی یا شادی و خوشی رو که کامل ازش لذت بردی دوباره میزدی رو شروع.](https://twitter.com/nadia_ahmadian_/status/1440287465365929989)
-- [@nadia_ahmadian_: وقتی آدم بزرگ میشی زندگیت دوتیکه میشه، یک تیکه اش اونیه که واقعا زندگیته، یکی دیگه اشم کارایی که باید انجام بدی چون در غیر اینصورت بگا میری و نباید اجازه بدی این دو تیکه رو هم اثر بذارن.](https://twitter.com/nadia_ahmadian_/status/1440287461582671878)
-- [@nadia_ahmadian_: دایناسورم رفت پیش اجدادش😔نمیدونستم دیروز عصر آخرین باریه که این شکلی لش کنارم میخوابه](https://twitter.com/nadia_ahmadian_/status/1439862069826932739)
+- [@nadia_ahmadian_: If you ever need a fancy way of saying that you’re breaking down a big complex task into a set of smaller, simpler tasks, just say that you’re performing functional decomposition. 🙂🤓💻](https://twitter.com/nadia_ahmadian_/status/1440705484059676679)
+- [@nadia_ahmadian_: A journey of a thousand miles begins with a single step.](https://twitter.com/nadia_ahmadian_/status/1440700612753051656)
+- [@nadia_ahmadian_: I'm dead. I'm dead, I'm dead, I'm dead, I'm dead, I died, I'm dead. -Marlin](https://twitter.com/nadia_ahmadian_/status/1440671926591000581)
+- [@nadia_ahmadian_: Relationships are all totally narcissistic, 'cause basically, you're looking for someone who will love you as much as you love yourself!](https://twitter.com/nadia_ahmadian_/status/1440670355807301649)
+- [@nadia_ahmadian_: growing u is not the problem, forgetting is.__Little Prince](https://twitter.com/nadia_ahmadian_/status/1440669200846970894)
 <!-- TWITTER:END -->
 #
 
