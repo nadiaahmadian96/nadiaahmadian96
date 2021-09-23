@@ -134,7 +134,7 @@ My name is Nadia Ahmadian You can call me Nad! I am currently a 25 y/o software 
 
 <!-- TODO-IST:START -->
 🏆  230 Karma Points           
-🌸  Completed 1 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 11 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
