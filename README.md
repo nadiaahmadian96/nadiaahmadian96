@@ -133,7 +133,7 @@ My name is Nadia Ahmadian You can call me Nad! I am currently a 25 y/o software 
 # Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  150 Karma Points           
+🏆  230 Karma Points           
 🌸  Completed 1 tasks today           
 ✅  Completed 11 tasks so far           
 ⏳  Longest streak is 1 days
