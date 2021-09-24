@@ -99,7 +99,7 @@ My name is Nadia Ahmadian You can call me Nad! I am currently a 25 y/o software 
 
 <!-- END: MUSIC STATUS -->
 <div align="center">
-<code src = "https://open.spotify.com/user/mxzttlrm16j2vjvt2m6vmkfv6?si=9a65528e2fb8454e">Follow me on Spotify</code>
+<code href="https://open.spotify.com/user/mxzttlrm16j2vjvt2m6vmkfv6?si=9a65528e2fb8454e">Follow me on Spotify</code>
  </div>
 
 # 💻 Latest Blog Posts
