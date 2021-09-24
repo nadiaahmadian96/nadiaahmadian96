@@ -104,11 +104,11 @@ My name is Nadia Ahmadian You can call me Nad! I am currently a 25 y/o software 
 
 # 📱 Latest Tweets
 <!-- TWITTER:START -->
+- [@nadia_ahmadian_: Ready to take movaqar photos for my linkedIn🤓](https://twitter.com/nadia_ahmadian_/status/1441138122352328705)
+- [@nadia_ahmadian_: با هیچکسم میل سخن نیست](https://twitter.com/nadia_ahmadian_/status/1440942393587650560)
+- [@Masood_zre: رفتم لینکداین همه موفق بودن. خجالت کشیدم برگشتم توییتر.](https://twitter.com/Masood_zre/status/1440771420666007559)
 - [@nadia_ahmadian_: If you ever need a fancy way of saying that you’re breaking down a big complex task into a set of smaller, simpler tasks, just say that you’re performing functional decomposition. 🙂🤓💻](https://twitter.com/nadia_ahmadian_/status/1440705484059676679)
 - [@nadia_ahmadian_: A journey of a thousand miles begins with a single step.](https://twitter.com/nadia_ahmadian_/status/1440700612753051656)
-- [@nadia_ahmadian_: I'm dead. I'm dead, I'm dead, I'm dead, I'm dead, I died, I'm dead. -Marlin](https://twitter.com/nadia_ahmadian_/status/1440671926591000581)
-- [@nadia_ahmadian_: Relationships are all totally narcissistic, 'cause basically, you're looking for someone who will love you as much as you love yourself!](https://twitter.com/nadia_ahmadian_/status/1440670355807301649)
-- [@nadia_ahmadian_: growing u is not the problem, forgetting is.__Little Prince](https://twitter.com/nadia_ahmadian_/status/1440669200846970894)
 <!-- TWITTER:END -->
 #
 
