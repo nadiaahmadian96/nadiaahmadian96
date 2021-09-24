@@ -90,12 +90,15 @@ My name is Nadia Ahmadian You can call me Nad! I am currently a 25 y/o software 
 <br/>
 <!-- START: MUSIC STATUS -->
 <div align="center">
+  
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=mxzttlrm16j2vjvt2m6vmkfv6)
+  
 </div>
-<code>https://open.spotify.com/user/mxzttlrm16j2vjvt2m6vmkfv6?si=9a65528e2fb8454e</code>
+
 
 
 <!-- END: MUSIC STATUS -->
+<code>https://open.spotify.com/user/mxzttlrm16j2vjvt2m6vmkfv6?si=9a65528e2fb8454e</code>
 
 # 💻 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->🔘Core ML</br>https://medium.com/nerd-for-tech/core-ml-e840938a55d9?source=rss-ae64efaa0bb3------2</br>🔘Swift Tuples</br>https://medium.com/nerd-for-tech/swift-tuples-e41bcf579cfd?source=rss-ae64efaa0bb3------2</br>🔘Swift Structs vs. Classes</br>https://medium.com/nerd-for-tech/swift-structs-vs-classes-f2014da7a20f?source=rss-ae64efaa0bb3------2</br>🔘How to Bring Moon Into Your Room Using AR Kit</br>https://towardsdev.com/how-to-bring-moon-into-your-room-using-ar-kit-81e4d7dfcfae?source=rss-ae64efaa0bb3------2</br>🔘Geometric Transformation in Digital Image processing</br>https://towardsdev.com/geometric-transformation-in-digital-image-processing-4236a6553dc2?source=rss-ae64efaa0bb3------2</br><!-- BLOG-POST-LIST:END -->
