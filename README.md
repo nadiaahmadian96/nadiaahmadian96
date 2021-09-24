@@ -90,11 +90,11 @@ My name is Nadia Ahmadian You can call me Nad! I am currently a 25 y/o software 
 <br/>
 <!-- START: MUSIC STATUS -->
 <div align="center">
- 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=mxzttlrm16j2vjvt2m6vmkfv6)]((https://open.spotify.com/user/mxzttlrm16j2vjvt2m6vmkfv6?si=54ac199af60e4b8f))
-
- 
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=mxzttlrm16j2vjvt2m6vmkfv6)]
 </div>
+<code>https://open.spotify.com/user/mxzttlrm16j2vjvt2m6vmkfv6?si=9a65528e2fb8454e</code>
+
+
 <!-- END: MUSIC STATUS -->
 
 # 💻 Latest Blog Posts
