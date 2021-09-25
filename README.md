@@ -52,7 +52,8 @@
 <div align="center">
 <p width="500px" style="width:500px">
 <h3>About Me</h3>
-My name is Nadia Ahmadian You can call me Nad! I am currently a 25 y/o software engineering graduate and an iOS developer <br/> I'm a crazy gemini who believes in magic, aliens and impossible dreams and also loves to code. <br/> among all other things in the universe I find creating the most satisfying thing to do as a job and also as a hobby so here I am developing apps and delivering results in alignment with companies mission. <br/> I love to engage myself into different cool organisations, projects, and people.😎
+My name is Nadia Ahmadian You can call me Nad! I am currently a 25 y/o software engineering graduate and an iOS developer. I'm a Gemini who believes in magic, aliens, and impossible dreams and also loves to code. among all other things in the universe I find creating the most satisfying thing to do as a job and also as a hobby so here I am developing apps and delivering results in alignment with companies mission. 
+I love to engage myself in different cool organizations, projects, and people.
 </p>
 </div>
 <!-- END: ABOUT ME  -->
