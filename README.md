@@ -137,8 +137,8 @@ I love to engage myself in different cool organizations, projects, and people.
 
 <!-- TODO-IST:START -->
 🏆  480 Karma Points           
-🌸  Completed 5 tasks today           
-✅  Completed 16 tasks so far           
+🌸  Completed 7 tasks today           
+✅  Completed 18 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
