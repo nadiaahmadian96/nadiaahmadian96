@@ -110,7 +110,7 @@ I love to engage myself in different cool organizations, projects, and people.
 
 # 📱 Latest Tweets
 <!-- TWITTER:START -->
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nadia_ahmadian_)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nadia_ahmadian_&show_reply=off)](https://github.com/gazf/github-readme-twitter)
 
 <!-- TWITTER:END -->
 #
