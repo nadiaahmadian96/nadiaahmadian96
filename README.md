@@ -109,11 +109,7 @@ My name is Nadia Ahmadian You can call me Nad! I am currently a 25 y/o software 
 
 # 📱 Latest Tweets
 <!-- TWITTER:START -->
-- [@nadia_ahmadian_: Ready to take movaqar photos for my linkedIn🤓](https://twitter.com/nadia_ahmadian_/status/1441138122352328705)
-- [@nadia_ahmadian_: با هیچکسم میل سخن نیست](https://twitter.com/nadia_ahmadian_/status/1440942393587650560)
-- [@Masood_zre: رفتم لینکداین همه موفق بودن. خجالت کشیدم برگشتم توییتر.](https://twitter.com/Masood_zre/status/1440771420666007559)
-- [@nadia_ahmadian_: If you ever need a fancy way of saying that you’re breaking down a big complex task into a set of smaller, simpler tasks, just say that you’re performing functional decomposition. 🙂🤓💻](https://twitter.com/nadia_ahmadian_/status/1440705484059676679)
-- [@nadia_ahmadian_: A journey of a thousand miles begins with a single step.](https://twitter.com/nadia_ahmadian_/status/1440700612753051656)
+- [[Action required] Your RSS.app Trial has Expired - Sat Sep 25 2021](https://rss.app)
 <!-- TWITTER:END -->
 #
 
