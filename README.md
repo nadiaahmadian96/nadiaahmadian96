@@ -110,7 +110,8 @@ I love to engage myself in different cool organizations, projects, and people.
 
 # 📱 Latest Tweets
 <!-- TWITTER:START -->
-- [[Action required] Your RSS.app Trial has Expired - Sat Sep 25 2021](https://rss.app)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nadia_ahmadian_)](https://github.com/gazf/github-readme-twitter)
+
 <!-- TWITTER:END -->
 #
 
@@ -136,8 +137,8 @@ I love to engage myself in different cool organizations, projects, and people.
 
 <!-- TODO-IST:START -->
 🏆  330 Karma Points           
-🌸  Completed 4 tasks today           
-✅  Completed 15 tasks so far           
+🌸  Completed 3 tasks today           
+✅  Completed 14 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
