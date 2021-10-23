@@ -132,9 +132,9 @@ I love to engage myself in different cool organizations, projects, and people.
 # Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  1,063 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 36 tasks so far           
+🏆  1,106 Karma Points           
+🌸  Completed 6 tasks today           
+✅  Completed 42 tasks so far           
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
