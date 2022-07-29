@@ -134,13 +134,7 @@ I love to engage myself in different cool organizations, projects, and people.
 
 
 <!-- END: GITHUB STATUS -->
-  
-
-[![trophy](https://github-profile-trophy.vercel.app/nadiaahmadian96&theme=darkhub)](https://github.com/nadiaahmadian96/github-profile-trophy)
-
-
-
-  
+   
   </br>
   
   
@@ -172,6 +166,3 @@ I love to engage myself in different cool organizations, projects, and people.
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-
-
-
