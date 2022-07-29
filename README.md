@@ -129,14 +129,7 @@ I love to engage myself in different cool organizations, projects, and people.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiaahmadian96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   
-# Todoist Stats
 
-<!-- TODO-IST:START -->
-🏆  1,192 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 42 tasks so far           
-⏳  Longest streak is 2 days
-<!-- TODO-IST:END -->
 
 
 
