@@ -7,10 +7,6 @@
 </a>
 <a href="https://www.linkedin.com/in/nadia-ahmadian-7a82bb176/">
   <img align="left" alt="Nadia's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/mxzttlrm16j2vjvt2m6vmkfv6">
-  <img align="left" alt="Nadia's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 <a href="https://www.facebook.com/nadia.ahmadian.92">
   <img align="left" alt="Nadia's FaceBook" width="22px" src="@/../assests/img/social/fb.png" />
 </a>
