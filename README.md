@@ -26,7 +26,7 @@
 
 <br />
 <!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
-<img src="https://media.giphy.com/media/JrGYQZWou5Z51vNRob/giphy.gif?cid=ecf05e470evukluz19qdpzq28xikiaa6rp9o2sil4mn9c8do&rid=giphy.gif&ct=g" width="100%"  alt="Nadia's Hero Gif Image"/>
+<img src="https://media.giphy.com/media/krkrHAEodHgzP72rTI/giphy.gif" width="100%"  alt="Nadia's Hero Gif Image"/>
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 <!-- START: NADIA ICON -->
 <!-- END: Nadia ICON -->
