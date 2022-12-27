@@ -160,5 +160,6 @@ I love to engage myself in different cool organizations, projects, and people.
     <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <img src="[https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif](https://giphy.com/embed/C3brYLms1bhv2)" width="30" height="30"/>
+  <iframe src="https://giphy.com/embed/C3brYLms1bhv2" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a>
 </div>
