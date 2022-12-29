@@ -110,11 +110,6 @@ I love to engage myself in different cool organizations, projects, and people.
 </br>
 </br>
 <div align="center">
-
- 
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadiaahmadian96)](https://git.io/streak-stats)
-
 <!-- START: GITHUB STATUS -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiaahmadian96&show_icons=true&theme=chartreuse-dark)
