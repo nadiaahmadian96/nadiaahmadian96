@@ -1,16 +1,16 @@
 # Hey there, I'm Nadia 👋
 
 <a href="https://discord.gg/zUSP93Yf">
-  <img alt="Nadia's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" />
+  <img alt="Nadia's Discord" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" />
 </a>
 <a href="https://twitter.com/nadia_ahmadian_">
-  <img alt="Nadia's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" />
+  <img alt="Nadia's Twitter" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nadia-ahmadian-7a82bb176/">
-  <img alt="Nadia's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />
+  <img alt="Nadia's LinkedIn" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/nadia.ahmadian_/">
-  <img alt="Nadia's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" />
+  <img alt="Nadia's Instagram" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
 </a>
 
 ---
