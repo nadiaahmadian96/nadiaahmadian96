@@ -96,8 +96,8 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=6500&pause=2200&color=C9D1D9&center=true&vCenter=true&width=980&lines=Woz%3A+Never+trust+a+computer+you+can%E2%80%99t+throw+out+a+window.;Woz%3A+My+goal+was+to+build+good+computers.;Woz%3A+The+best+things+are+the+ones+almost+no+one+else+is+doing."
-  alt="Woz quotes"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=7500&pause=2200&color=C9D1D9&center=true&vCenter=true&width=1100&lines=Woz%3A+Never+trust+a+computer+you+can%E2%80%99t+throw+out+a+window.;Woz%3A+My+goal+wasn%E2%80%99t+to+make+a+lot+of+money.+It+was+to+build+good+computers.;Jobs%3A+Design+is+how+it+works.;Jobs%3A+Deciding+what+not+to+do+is+as+important+as+deciding+what+to+do.;Ive%3A+Simplicity+is+the+absence+of+complexity.;Ive%3A+There+is+beauty+when+something+works+intuitively.;Federighi%3A+Performance+is+a+feature.;Federighi%3A+If+you+do+the+right+thing+for+the+user%2C+everything+else+follows."
+  alt="Apple leaders quotes"
 />
 
 </div>
