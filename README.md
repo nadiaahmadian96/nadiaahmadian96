@@ -8,9 +8,6 @@ Dark • Cinematic • Animated • Native-first
 <a href="https://www.linkedin.com/in/nadia-ahmadian-7a82bb176/">
   <img src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://nadiaahmadian.medium.com/">
-  <img src="https://img.shields.io/badge/Writing-0B0F14?style=for-the-badge&logo=medium&logoColor=white">
-</a>
 <a href="https://x.com/nadia_ahmadian_">
   <img src="https://img.shields.io/badge/X-0B0F14?style=for-the-badge&logo=x&logoColor=white">
 </a>
@@ -40,8 +37,7 @@ Dark • Cinematic • Animated • Native-first
 
 ---
 
-<!-- SECTION DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f14&height=3&section=divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f14&height=3"/>
 
 ## What I focus on
 
@@ -49,29 +45,43 @@ Dark • Cinematic • Animated • Native-first
   <tr>
     <td width="58%" valign="top">
 
-### How I build
-- Native-first: Swift / SwiftUI, UIKit when precision matters  
-- Clear structure: modular, testable, readable code  
-- Performance as a feature: memory, startup, scrolling  
-- UI polish: accessibility, motion, responsiveness  
-- Thoughtful delivery: pragmatic tradeoffs, steady iteration  
+<h3>How I build</h3>
+<ul>
+  <li>Native-first: Swift / SwiftUI, UIKit when precision matters</li>
+  <li>Clear structure: modular, testable, readable code</li>
+  <li>Performance as a feature: memory, startup, scrolling</li>
+  <li>UI polish: accessibility, motion, responsiveness</li>
+  <li>Thoughtful delivery: pragmatic tradeoffs, steady iteration</li>
+</ul>
 
-### A parallel discipline
-Piano shaped how I approach complexity — slow practice, honest feedback, careful refinement.
+<h3>A parallel discipline</h3>
+<p>
+Piano shaped how I approach complexity —
+slow practice, honest feedback,
+and careful refinement.
+</p>
+
+<!-- Interaction: collapsible mini-note -->
+<details>
+  <summary><b>Small thing I care about</b></summary>
+  <br/>
+  The best compliment an app can get is: <i>“It just feels right.”</i>
+</details>
 
     </td>
     <td width="42%" valign="top">
 
-### Areas of strength
-- Swift Concurrency (`async/await`, `Task`, `actor`, cancellation)
-- SwiftUI state & navigation
-- UIKit interoperability
-- Networking, persistence, testing
-- Debugging and performance analysis
+<h3>Areas of strength</h3>
+<ul>
+  <li>Swift Concurrency (async/await, Task, actors, cancellation)</li>
+  <li>SwiftUI state & navigation</li>
+  <li>UIKit interoperability</li>
+  <li>Networking, persistence, testing</li>
+  <li>Debugging and performance analysis</li>
+</ul>
 
 <br/>
 
-<!-- STATS (ANIMATED & RELIABLE) -->
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadiaahmadian96&theme=github_dark"
   width="100%"
@@ -97,10 +107,7 @@ Piano shaped how I approach complexity — slow practice, honest feedback, caref
 
 ---
 
-<!-- SOFT ANIMATED DIVIDER -->
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0b0f14&height=2&animation=fadeIn"
-/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f14&height=2&animation=fadeIn"/>
 
 ## iOS & Apple stack
 
@@ -147,7 +154,35 @@ Piano shaped how I approach complexity — slow practice, honest feedback, caref
 
 ---
 
-<!-- ANIMATED QUOTE -->
+<!-- More interaction: collapsible “Woz-only” section -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f14&height=2&animation=fadeIn"/>
+
+## Woz-only (engineer humor)
+
+<details>
+  <summary><b>Quotes I keep around (Steve Wozniak)</b></summary>
+  <br/>
+
+  <blockquote>
+    <i>“Never trust a computer you can’t throw out a window.”</i><br/>
+    <sub>— Steve Wozniak</sub>
+  </blockquote>
+
+  <blockquote>
+    <i>“My goal wasn’t to make a lot of money. It was to build good computers.”</i><br/>
+    <sub>— Steve Wozniak</sub>
+  </blockquote>
+
+  <blockquote>
+    <i>“The things that have brought me the most satisfaction have been the things that almost no one else was doing.”</i><br/>
+    <sub>— Steve Wozniak</sub>
+  </blockquote>
+
+</details>
+
+---
+
+<!-- Animated Values -->
 <div align="center">
 
 <img
@@ -158,17 +193,7 @@ Piano shaped how I approach complexity — slow practice, honest feedback, caref
 
 ---
 
-## Writing
-
-- [REST Best Practices](https://nadiaahmadian.medium.com/rest-best-practices-1d0b16554bdc)
-- [Core ML: An Overview](https://medium.com/nerd-for-tech/core-ml-e840938a55d9)
-- [Swift Tuples Explained](https://medium.com/nerd-for-tech/swift-tuples-e41bcf579cfd)
-- [Swift Structs vs. Classes](https://medium.com/nerd-for-tech/swift-structs-vs-classes-f2014da7a20f)
-- [ARKit — Bringing the Moon Into Your Room](https://towardsdev.com/how-to-bring-moon-into-your-room-using-ar-kit-81e4d7dfcfae)
-
----
-
-<!-- FOOTER -->
+<!-- Footer -->
 <div align="center">
 
 <img
