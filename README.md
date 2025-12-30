@@ -1,30 +1,32 @@
 <!-- ===========================
 NADIA'S iOS / APPLE PROFILE README
+Dark • Cinematic • Animated • Native-first
 =========================== -->
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/nadia-ahmadian-7a82bb176/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://nadiaahmadian.medium.com/">
-  <img alt="Writing" src="https://img.shields.io/badge/Writing-0B0F14?style=for-the-badge&logo=medium&logoColor=white">
+  <img src="https://img.shields.io/badge/Writing-0B0F14?style=for-the-badge&logo=medium&logoColor=white">
 </a>
 <a href="https://x.com/nadia_ahmadian_">
-  <img alt="X" src="https://img.shields.io/badge/X-0B0F14?style=for-the-badge&logo=x&logoColor=white">
+  <img src="https://img.shields.io/badge/X-0B0F14?style=for-the-badge&logo=x&logoColor=white">
 </a>
 
 <br/><br/>
 
+<!-- HERO -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0b0f14&height=210&section=header&text=Nadia%20Ahmadian&fontColor=ffffff&fontSize=56&animation=fadeIn&desc=iOS%20Engineer%20%E2%80%A2%20Apple%20Ecosystem%20%E2%80%A2%20Craft%20%2B%20Performance&descAlignY=72"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0b0f14&height=220&section=header&text=Nadia%20Ahmadian&fontColor=ffffff&fontSize=58&animation=fadeIn&desc=iOS%20Engineer%20%E2%80%A2%20Apple%20Ecosystem%20%E2%80%A2%20Craft%20%2B%20Performance&descAlignY=72"
   width="100%"
-  alt="Header"
 />
 
+<!-- TYPING ANIMATION -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=700&color=FFFFFF&center=true&vCenter=true&width=820&lines=Swift+%2F+SwiftUI+%7C+UIKit+when+it+matters;Concurrency+%28async%2Fawait%2C+actors%2C+cancellation%29;Performance%2C+quality%2C+and+quiet+UX;Native-first%2C+intentional+software"
-  alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&color=FFFFFF&center=true&vCenter=true&width=880&lines=Swift+%2F+SwiftUI+%E2%80%A2+UIKit+when+precision+matters;Concurrency%3A+async%2Fawait%2C+actors%2C+cancellation;Performance%2C+polish%2C+and+quiet+UX;Native-first+software+for+Apple+platforms"
+  alt="Typing animation"
 />
 
 <br/><br/>
@@ -37,6 +39,9 @@ NADIA'S iOS / APPLE PROFILE README
 </div>
 
 ---
+
+<!-- SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f14&height=3&section=divider"/>
 
 ## What I focus on
 
@@ -52,7 +57,7 @@ NADIA'S iOS / APPLE PROFILE README
 - Thoughtful delivery: pragmatic tradeoffs, steady iteration  
 
 ### A parallel discipline
-Piano shaped my approach to complexity: slow practice, honest feedback, and careful refinement.
+Piano shaped how I approach complexity — slow practice, honest feedback, careful refinement.
 
     </td>
     <td width="42%" valign="top">
@@ -66,26 +71,24 @@ Piano shaped my approach to complexity: slow practice, honest feedback, and care
 
 <br/>
 
+<!-- STATS (ANIMATED & RELIABLE) -->
 <img
-  src="https://github-readme-stats-fast.vercel.app/api?username=nadiaahmadian96&show_icons=true&hide_title=true&hide_border=true&bg_color=0b0f14&text_color=c9d1d9&icon_color=ffffff"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadiaahmadian96&theme=github_dark"
   width="100%"
-  alt="GitHub stats"
 />
 
 <br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=nadiaahmadian96&hide_border=true&background=0B0F14&ring=FFFFFF&fire=FFFFFF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadiaahmadian96&theme=github_dark"
   width="100%"
-  alt="GitHub streak"
 />
 
 <br/>
 
 <img
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nadiaahmadian96&layout=compact&hide_border=true&bg_color=0b0f14&text_color=c9d1d9"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadiaahmadian96&theme=github_dark"
   width="100%"
-  alt="Top languages"
 />
 
     </td>
@@ -93,6 +96,11 @@ Piano shaped my approach to complexity: slow practice, honest feedback, and care
 </table>
 
 ---
+
+<!-- SOFT ANIMATED DIVIDER -->
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0b0f14&height=2&animation=fadeIn"
+/>
 
 ## iOS & Apple stack
 
@@ -111,7 +119,7 @@ Piano shaped my approach to complexity: slow practice, honest feedback, and care
 
 ### Language & concurrency
 - Swift (protocol-oriented design, value semantics)
-- Swift Concurrency: structured tasks, cancellation, actors
+- Structured concurrency, cancellation, actors
 - Combine (used selectively)
 
 ### UI & architecture
@@ -120,33 +128,33 @@ Piano shaped my approach to complexity: slow practice, honest feedback, and care
 - MVVM with clear feature boundaries
 - Dependency injection patterns
 
-### Networking
+### Networking & data
 - URLSession
 - REST APIs with Codable
-- Thoughtful error modeling
-
-### Persistence
-- Core Data
-- Realm
+- Core Data, Realm
 - FileManager & caching
-- UserDefaults (used intentionally)
 
 ### Frameworks
 - AVFoundation, Core Location, MapKit
 - Vision & Core ML
 - ARKit / RealityKit
 
-### Quality & performance
+### Quality & system fundamentals
 - XCTest (unit + UI)
-- Instruments (Time Profiler, Leaks, Memory Graph)
-- Crash log analysis
-- Energy and responsiveness awareness
+- Instruments & crash analysis
+- Accessibility, localization
+- Permissions & lifecycle management
 
-### System fundamentals
-- Accessibility
-- Localization readiness
-- Permissions & privacy
-- Background tasks & lifecycle
+---
+
+<!-- ANIMATED QUOTE -->
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=C9D1D9&center=true&vCenter=true&width=900&lines=Depth+over+noise.;Native+over+generic.;Craft+over+hype."
+/>
+
+</div>
 
 ---
 
@@ -160,18 +168,12 @@ Piano shaped my approach to complexity: slow practice, honest feedback, and care
 
 ---
 
-## Values
-
-- Depth over noise  
-- Native over generic  
-- Craft over hype  
-- Maintainability, accessibility, and performance matter  
-
----
-
+<!-- FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f14&height=2&section=footer" width="100%" alt="footer-line"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0b0f14&height=120&section=footer&animation=fadeIn"
+/>
 
 <b>Building Apple-native experiences with care.</b>
 
