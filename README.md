@@ -1,65 +1,92 @@
 <!-- ===========================
-NADIA'S iOS / APPLE JOB-READY README.
+NADIA'S iOS / APPLE PROFILE README
 =========================== -->
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/nadia-ahmadian-7a82bb176/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://nadiaahmadian.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Writing-0B0F14?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://x.com/nadia_ahmadian_"><img alt="X" src="https://img.shields.io/badge/X-0B0F14?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/nadia-ahmadian-7a82bb176/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://nadiaahmadian.medium.com/">
+  <img alt="Writing" src="https://img.shields.io/badge/Writing-0B0F14?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+<a href="https://x.com/nadia_ahmadian_">
+  <img alt="X" src="https://img.shields.io/badge/X-0B0F14?style=for-the-badge&logo=x&logoColor=white">
+</a>
 
 <br/><br/>
 
-<!-- Hero Banner  -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b0f14&height=200&section=header&text=Nadia%20Ahmadian&fontColor=ffffff&fontSize=54&animation=fadeIn&desc=iOS%20Engineer%20%E2%80%A2%20Apple%20Platform%20Developer%20%E2%80%A2%20Craft%20%2B%20Performance&descAlignY=70" width="100%" alt="Header"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0b0f14&height=210&section=header&text=Nadia%20Ahmadian&fontColor=ffffff&fontSize=56&animation=fadeIn&desc=iOS%20Engineer%20%E2%80%A2%20Apple%20Ecosystem%20%E2%80%A2%20Craft%20%2B%20Performance&descAlignY=72"
+  width="100%"
+  alt="Header"
+/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=700&color=FFFFFF&center=true&vCenter=true&width=820&lines=Swift+%2F+SwiftUI+%7C+UIKit+when+it+matters;Concurrency+%28async%2Fawait%2C+actors%2C+cancellation%29;Performance%2C+quality%2C+and+quiet+UX;Native-first%2C+intentional+software"
+  alt="Typing SVG"
+/>
+
+<br/><br/>
+
+<p>
+  <b>iOS Engineer</b> building native Apple apps with calm UI, strong structure, and performance-first habits.<br/>
+  Pianist — repetition and refinement until the result feels effortless.
+</p>
 
 </div>
 
 ---
 
-<div align="center">
-
-### iOS Engineer · Apple Ecosystem · Swift / SwiftUI  
-I build **native Apple apps** with calm UI, strong architecture, and performance-first habits.
-
-</div>
-
----
-
-## What you can expect from me:
+## What I focus on
 
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="58%" valign="top">
 
-### Engineering style
-- **Apple-native first** (Swift / SwiftUI / UIKit when needed)
-- **Architecture that scales** (modular, testable, readable)
-- **Performance is a feature** (Instruments, memory, startup time)
-- **Polish & UX discipline** (accessibility, motion, responsiveness)
-- **Shipping mindset** (incremental delivery, pragmatic tradeoffs)
+### How I build
+- Native-first: Swift / SwiftUI, UIKit when precision matters  
+- Clear structure: modular, testable, readable code  
+- Performance as a feature: memory, startup, scrolling  
+- UI polish: accessibility, motion, responsiveness  
+- Thoughtful delivery: pragmatic tradeoffs, steady iteration  
 
-### The personal edge
-I’m also a **pianist** — and it shapes my engineering: repetition, precision, and refinement until the result feels effortless.
+### A parallel discipline
+Piano shaped my approach to complexity: slow practice, honest feedback, and careful refinement.
 
     </td>
-    <td width="45%" valign="top">
+    <td width="42%" valign="top">
 
-### Quick fit keywords
-- Swift Concurrency (`async/await`, actors, structured concurrency)
-- SwiftUI state & navigation (modern patterns)
-- UIKit interoperability (when necessary)
-- Networking, persistence, testing, performance
-- CI-friendly habits, code review ready
-
-<br/>
-
-<!-- GitHub stats styled for dark mode -->
-<img src="https://github-readme-stats.vercel.app/api?username=nadiaahmadian96&show_icons=true&hide_title=true&hide_border=true&bg_color=0b0f14&text_color=c9d1d9&icon_color=ffffff" width="100%" alt="stats"/>
+### Areas of strength
+- Swift Concurrency (`async/await`, `Task`, `actor`, cancellation)
+- SwiftUI state & navigation
+- UIKit interoperability
+- Networking, persistence, testing
+- Debugging and performance analysis
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiaahmadian96&layout=compact&hide_border=true&bg_color=0b0f14&text_color=c9d1d9" width="100%" alt="langs"/>
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=nadiaahmadian96&show_icons=true&hide_title=true&hide_border=true&bg_color=0b0f14&text_color=c9d1d9&icon_color=ffffff"
+  width="100%"
+  alt="GitHub stats"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=nadiaahmadian96&hide_border=true&background=0B0F14&ring=FFFFFF&fire=FFFFFF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"
+  width="100%"
+  alt="GitHub streak"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nadiaahmadian96&layout=compact&hide_border=true&bg_color=0b0f14&text_color=c9d1d9"
+  width="100%"
+  alt="Top languages"
+/>
 
     </td>
   </tr>
@@ -67,15 +94,16 @@ I’m also a **pianist** — and it shapes my engineering: repetition, precision
 
 ---
 
-## Core iOS stack (what I’m strong with)
+## iOS & Apple stack
 
 <div align="center">
-
 
 <img src="https://img.shields.io/badge/Swift-0B0F14?style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/SwiftUI-0B0F14?style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/UIKit-0B0F14?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Concurrency-0B0F14?style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/Xcode-0B0F14?style=for-the-badge&logo=xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Instruments-0B0F14?style=for-the-badge&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/SPM-0B0F14?style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-0B0F14?style=for-the-badge&logo=git&logoColor=white" />
 
@@ -83,97 +111,46 @@ I’m also a **pianist** — and it shapes my engineering: repetition, precision
 
 ### Language & concurrency
 - Swift (protocol-oriented design, value semantics)
-- Swift Concurrency: `async/await`, `Task`, cancellation, `actor`s, structured concurrency
-- Combine (when it fits the architecture)
+- Swift Concurrency: structured tasks, cancellation, actors
+- Combine (used selectively)
 
-### UI & app architecture
-- SwiftUI (state-driven UI, modern navigation, composition)
-- UIKit interop (hosting controllers, advanced layout/perf needs)
-- MVVM / feature-based modularization / coordinator-style navigation concepts
-- Dependency injection patterns (clean boundaries, testability)
+### UI & architecture
+- SwiftUI (state-driven UI, composition, navigation)
+- UIKit interop (hosting, advanced layout, performance)
+- MVVM with clear feature boundaries
+- Dependency injection patterns
 
 ### Networking
 - URLSession
-- REST APIs, JSON decoding with Codable
-- Robust error modeling, retries/backoff, request layering
+- REST APIs with Codable
+- Thoughtful error modeling
 
 ### Persistence
-- Core Data (modeling, fetch patterns, migration awareness)
-- Realm (where appropriate)
+- Core Data
+- Realm
+- FileManager & caching
 - UserDefaults (used intentionally)
-- FileManager / local caching strategies
 
-### Apple frameworks (when product needs them)
+### Frameworks
 - AVFoundation, Core Location, MapKit
-- Vision + Core ML (on-device intelligence)
-- ARKit / RealityKit (spatial experiences)
+- Vision & Core ML
+- ARKit / RealityKit
 
-### Testing & quality
-- XCTest (unit + UI testing)
-- Test-friendly architecture & mocking strategies
-- Snapshot testing (when useful for UI regressions)
+### Quality & performance
+- XCTest (unit + UI)
+- Instruments (Time Profiler, Leaks, Memory Graph)
+- Crash log analysis
+- Energy and responsiveness awareness
 
-### Performance & debugging
-- Instruments: Time Profiler, Leaks, Allocations, Memory Graph
-- Startup performance, scrolling performance, energy awareness
-- Crash log reading & investigation habits
-
-### Product-quality fundamentals (often overlooked)
-- Accessibility (Dynamic Type, VoiceOver)
+### System fundamentals
+- Accessibility
 - Localization readiness
-- Privacy & permissions clarity
-- Background tasks & lifecycle awareness
+- Permissions & privacy
+- Background tasks & lifecycle
 
 ---
 
-## Selected work (curated for recruiters)
-
-> ✅ Replace these with your best 3–6 repos. Keep it **curated**.  
-> Tip: Pin these repos on your GitHub profile too.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🎬 iOS App — SwiftUI
-**One-line product framing** (what it does, for whom, why it matters).  
-**Highlights:** architecture, performance, UI polish.  
-**Tech:** SwiftUI · Concurrency · Networking · Persistence  
-✅ Repo: https://github.com/nadiaahmadian96/REPO_NAME
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🧠 On-device Intelligence — Vision / Core ML
-A focused demo showing practical ML integration and clean boundaries.  
-**Tech:** Vision · Core ML · Swift · performance awareness  
-✅ Repo: https://github.com/nadiaahmadian96/REPO_NAME
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🧭 Location / Maps — MapKit
-A clean map-based experience with solid state management.  
-**Tech:** MapKit · Core Location · SwiftUI/UIKit  
-✅ Repo: https://github.com/nadiaahmadian96/REPO_NAME
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🧩 Architecture / Patterns (small but serious)
-A compact repo demonstrating testability + modular boundaries.  
-**Tech:** DI · MVVM · XCTest  
-✅ Repo: https://github.com/nadiaahmadian96/REPO_NAME
-
-    </td>
-  </tr>
-</table>
-
----
-
-## Writing (signal for clarity & communication)
+## Writing
 
 - [REST Best Practices](https://nadiaahmadian.medium.com/rest-best-practices-1d0b16554bdc)
 - [Core ML: An Overview](https://medium.com/nerd-for-tech/core-ml-e840938a55d9)
@@ -183,25 +160,19 @@ A compact repo demonstrating testability + modular boundaries.
 
 ---
 
-## Values (quiet, senior energy)
+## Values
 
 - Depth over noise  
 - Native over generic  
 - Craft over hype  
-- Performance, accessibility, and maintainability are features
+- Maintainability, accessibility, and performance matter  
 
 ---
-
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/nadia-ahmadian-7a82bb176/
-- Medium: https://nadiaahmadian.medium.com/
-- X: https://x.com/nadia_ahmadian_
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f14&height=2&section=footer" width="100%" alt="footer-line"/>
 
-**Building Apple-native experiences with care.**
+<b>Building Apple-native experiences with care.</b>
 
 </div>
