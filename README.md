@@ -1,8 +1,3 @@
-<!-- ===========================
-NADIA'S iOS / APPLE PROFILE README
-Dark • Minimal • Animated • Native-first
-=========================== -->
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/nadia-ahmadian-7a82bb176/">
@@ -45,14 +40,6 @@ Dark • Minimal • Animated • Native-first
 - Delivery: pragmatic tradeoffs, steady iteration  
 
 **Piano note:** slow practice, honest feedback, careful refinement.
-
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadiaahmadian96&theme=github_dark"
-    width="100%"
-    alt="Profile details"
-  />
-</div>
 
 <div align="center">
   <img
@@ -108,25 +95,9 @@ Dark • Minimal • Animated • Native-first
 
 <div align="center">
 
-<!-- Apple leaders • engineer humor (clean + minimal + animated) -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=7000&pause=1800&color=C9D1D9&center=true&vCenter=true&width=980&lines=Woz%3A+Never+trust+a+computer+you+can%E2%80%99t+throw+out+a+window.;Woz%3A+If+it%E2%80%99s+not+fun%2C+it%E2%80%99s+not+engineering+yet."
-  alt="Woz humor quotes"
-/>
-
-<br/>
-
-<!-- Apple-inspired “funny code” one-liners (not quotes, just vibes) -->
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=8000&pause=1200&color=8B949E&center=true&vCenter=true&width=980&lines=%2F%2F+Apple+mode%3A+ship+the+details%2C+hide+the+complexity.;if+(UI.feelsRight)+%7B+merge()+%7D+else+%7B+iterate()+%7D;guard+performance+%3E+%3D+smooth+else+%7B+profile()+%3B+%7D;actors+%3E+locks+%2F%2F+and+sleep+better.;%2F%2F+The+best+feature%3A+users+don%E2%80%99t+notice+it%E2%80%99s+there."
-  alt="Apple-flavored code animation"
-/>
-
-<br/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4200&pause=2000&color=C9D1D9&center=true&vCenter=true&width=900&lines=Depth+over+noise.;Native+over+generic.;Craft+over+hype."
-  alt="Values"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=6500&pause=2200&color=C9D1D9&center=true&vCenter=true&width=980&lines=Woz%3A+Never+trust+a+computer+you+can%E2%80%99t+throw+out+a+window.;Woz%3A+My+goal+was+to+build+good+computers.;Woz%3A+The+best+things+are+the+ones+almost+no+one+else+is+doing."
+  alt="Woz quotes"
 />
 
 </div>
