@@ -26,7 +26,7 @@ I build **native Apple apps** with calm UI, strong architecture, and performance
 
 ---
 
-## What you can expect from me (Apple/iOS hiring-focused)
+## What you can expect from me:
 
 <table>
   <tr>
